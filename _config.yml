@@ -1,6 +1,6 @@
 name: Savage Bartender
 favicon: null
-layout_spectrum: 0.414473
+layout_spectrum: 0.74689
 typography_spectrum: 0.711348
 title: Krystal Irizarry
 cta:
@@ -22,7 +22,7 @@ color:
     - '#D4D4D4'
     - '#545454'
     - '#797979'
-  brandStrength: 0.10679345834068954
+  brandStrength: 0.0625
   lightness: 0.5148683632723987
   saturation: 0.9923356045037508
   rhythmicContrast: 0.7583142328076065
